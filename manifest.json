@@ -1,0 +1,29 @@
+{
+ "name": "সেতু",
+ "short_name": "সেতু",
+ "description": "HTML থেকে প্লে স্টোরের অ্যাপ ফাইল বানানোর সহজ সঙ্গী",
+ "lang": "bn",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "display_override": [
+  "fullscreen",
+  "standalone"
+ ],
+ "background_color": "#EEF4F1",
+ "theme_color": "#0F6B5C",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
